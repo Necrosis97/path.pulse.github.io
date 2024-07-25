@@ -1,1 +1,1 @@
-# pathpluse.guthub.io
+# pathpluse.github.io
